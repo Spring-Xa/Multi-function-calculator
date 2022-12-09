@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/controller/DataInput.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/controller/WindowDrag.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/LUnion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/List.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/Node.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/Section.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/SeqList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/SetCount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/SinglyLinkedList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/count/Union.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/AntiScale.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/Open.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/Putong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/Scale.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/Scale1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/Scientific.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/sxwl/view/Set.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
